@@ -1,3 +1,4 @@
+
 /* Styling the .HEADER */
 .header {
   background-color: #f1f1f1;
@@ -70,9 +71,11 @@
    .column {
      width: 100%;
    }
-
+   h2 {
+     font-size: 40px;
+   }
    p {
-    margin: 0px;
+    font-size: 30px;
   }
   .hide {
     display: none;
