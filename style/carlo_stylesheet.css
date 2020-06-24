@@ -89,5 +89,13 @@
 
   /* End Styling for 3 columns */
 
+  /*Styling footer */
+  .footer {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px;
+  }
+  /* End Styling for footer */
+
   /* ######################## */
 
