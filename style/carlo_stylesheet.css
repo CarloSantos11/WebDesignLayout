@@ -1,0 +1,17 @@
+.header {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+  font-family: Arial;
+  /* margin: 0px; */
+}
+
+.header-h1 {
+  font-size: 3em;
+  text-decoration: underline;
+  margin-bottom: 0px;
+}
+
+.header-h2 {
+  margin-top: 0px;
+}
